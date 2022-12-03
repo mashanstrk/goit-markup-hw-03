@@ -366,7 +366,7 @@ color: var(--higtlite-color);
 
 .card-text {
     border: 1px solid #EEEEEE;
-    border-top: 0px;
+    border-top-style: none;
     padding: 20px 24px;
 }
 
